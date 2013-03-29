@@ -1,0 +1,5 @@
+safe: true
+source: <http://shenglinmei.github.com/blog/>
+destination: </Users/Samleo/Documents/Workplace/github/blog>
+lsi: false
+pygments: true
